@@ -71,18 +71,22 @@ body {
 
   .grid {
    display: flex;
+   width: 90%;
+   margin-right: auto;
+   margin-left: auto;
+   padding: 10px;
   
   }
 
 .icons {
     align-items: center;
-    padding: 6px;
+    padding: 8px;
 }
 
   .feature-descriptions {
-      font-size: 1.5rem;
+      font-size: 1.6rem;
       text-align: left;
-      padding: 0;
+      padding: 10px 10px;
   }
 
   #features {
@@ -91,7 +95,7 @@ body {
 }
 
   .descript {
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
 
   #features .descript {
